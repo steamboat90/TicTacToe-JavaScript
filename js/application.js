@@ -63,7 +63,7 @@ function addClickHandler(c){
 }
 
 
-changeText("Tic Tac Toe");
+changeText("Tic Tac Toe - Reload 2 Replay");
 for(var cell = 1; cell < 10; cell++){
     addClickHandler(cell);
 }
